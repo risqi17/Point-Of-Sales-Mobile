@@ -1,0 +1,4 @@
+#Thu Jul 18 10:39:40 ICT 2019
+base.0=D\:\\Belajar\\Project\\possit\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
